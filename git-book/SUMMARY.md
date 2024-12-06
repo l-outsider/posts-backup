@@ -10,3 +10,4 @@
 ## 一些有用的 Chat GPT  FAQ
 
 * [rollup 的 external 为什么只需要 react 和 react/jsx-runtime?](yi-xie-you-yong-de-chat-gpt-faq/rollup-de-external-wei-shen-me-zhi-xu-yao-react-he-reactjsxruntime.md)
+* [CSS/SCSS Modules 智能提示配置指南](yi-xie-you-yong-de-chat-gpt-faq/cssscss-modules-zhi-neng-ti-shi-pei-zhi-zhi-nan.md)
