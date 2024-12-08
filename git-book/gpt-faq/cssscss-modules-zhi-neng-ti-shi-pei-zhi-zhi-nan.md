@@ -33,7 +33,7 @@ npm install -D typescript-plugin-css-modules sass
 }
 ```
 
-2. 切换到工作区 TypeScript 版本：
+2. 切换到工作区 TypeScript 版本（<mark style="color:red;">重要，一定要选择工作区的Typescript版本</mark>）：
 
 ```
 1. 按 Cmd/Ctrl + Shift + P

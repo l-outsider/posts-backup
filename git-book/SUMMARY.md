@@ -6,8 +6,8 @@
   * [React 组件规范](builder/react-zu-jian-gui-fan.md)
   * [打造一个组件库](builder/da-zao-yi-ge-zu-jian-ku.md)
   * [为项目接入Storybook](builder/wei-xiang-mu-jie-ru-storybook.md)
-
-## 一些有用的 Chat GPT  FAQ
-
-* [rollup 的 external 为什么只需要 react 和 react/jsx-runtime?](yi-xie-you-yong-de-chat-gpt-faq/rollup-de-external-wei-shen-me-zhi-xu-yao-react-he-reactjsxruntime.md)
-* [CSS/SCSS Modules 智能提示配置指南](yi-xie-you-yong-de-chat-gpt-faq/cssscss-modules-zhi-neng-ti-shi-pei-zhi-zhi-nan.md)
+* [GPT FAQ](gpt-faq/README.md)
+  * [rollup 的 external 为什么只需要 react 和 react/jsx-runtime?](gpt-faq/rollup-de-external-wei-shen-me-zhi-xu-yao-react-he-reactjsxruntime.md)
+  * [CSS/SCSS Modules 智能提示配置指南](gpt-faq/cssscss-modules-zhi-neng-ti-shi-pei-zhi-zhi-nan.md)
+  * [解决 Git Clone 失败：配置代理和用户信息完整指南](gpt-faq/jie-jue-git-clone-shi-bai-pei-zhi-dai-li-he-yong-hu-xin-xi-wan-zheng-zhi-nan.md)
+  * [让 GPT 输出 markdown 格式的话术](gpt-faq/rang-gpt-shu-chu-markdown-ge-shi-de-hua-shu.md)
