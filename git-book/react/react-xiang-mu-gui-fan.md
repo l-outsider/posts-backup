@@ -1,4 +1,4 @@
-# React 组件规范
+# React 项目规范
 
 本人曾高强度参与 React 相关内容的开发，因此深知：
 
@@ -119,6 +119,8 @@ import Button from '@/components/Button/Button';
 * esModuleInterop: 允许在CommonJS模块中使用import语句。
 * skipLibCheck: 跳过库文件的类型检查，可以加快编译速度。
 
+更多可参考 [tsconfig-pei-zhi-xiang-jie.md](../builder/tsconfig-pei-zhi-xiang-jie.md "mention")
+
 ## 3 如何优雅地编写 react(tsx) 组件 <a href="#id-3-ru-he-you-ya-di-bian-xie-reacttsx-zu-jian" id="id-3-ru-he-you-ya-di-bian-xie-reacttsx-zu-jian"></a>
 
 这里主要解释函数式组件的大致构造，以及书写组件的顺序。
@@ -131,7 +133,7 @@ import OtherComponent from './OtherComponent';
 import safeParse from '../../utils';
 import type { IThemeContext } from '../../contexts/ThemeContext';
 
-import styles from './Component.scss';
+import classes from './Component.module.scss';
 
 // 2. 当前组件类型定义应该在当前文件内 增强代码的易读性
 // 必选项在前，可选项在后
@@ -251,7 +253,7 @@ Why children use ReactNode type?
 ```
 import { useState } from 'react';
 import cs from 'classnames';
-import './ComponentName.scss';
+import classes from './ComponentName.module.scss';
 
 interface IComponentNameProps {
   prop1: string;
@@ -370,7 +372,7 @@ export default ComponentName;
 
 * classnames [github 地址](https://github.com/JedWatson/classnames#readme)
 * css 使用 BEM 规范
-* css module （组件库不推荐，会对 css 重命名）
+* css module
 
 ### 4.1 classnames 的使用 <a href="#id-4.1classnames-de-shi-yong" id="id-4.1classnames-de-shi-yong"></a>
 
@@ -451,7 +453,11 @@ BEM 的使用规则：
 
 BEM 是一种强大的 CSS 组织方法，特别适合大型项目和团队协作。通过 BEM，开发者可以更好地管理和扩展样式代码。
 
-### 4.3 如何在 scss 中使用自定义颜色 <a href="#id-4.3-ru-he-zai-scss-zhong-shi-yong-zi-ding-yi-yan-se" id="id-4.3-ru-he-zai-scss-zhong-shi-yong-zi-ding-yi-yan-se"></a>
+### 4.3 使用 css/scss module
+
+
+
+### 4.4 如何在 scss 中使用自定义颜色 <a href="#id-4.3-ru-he-zai-scss-zhong-shi-yong-zi-ding-yi-yan-se" id="id-4.3-ru-he-zai-scss-zhong-shi-yong-zi-ding-yi-yan-se"></a>
 
 首先项目需要提供基于 mixin 的写法。
 
