@@ -16,3 +16,6 @@
   * [react组件库打包时 external 为什么只需要 react 和 react/jsx-runtime?](react/react-zu-jian-ku-da-bao-shi-external-wei-shen-me-zhi-xu-yao-react-he-reactjsxruntime.md)
   * [React-TypeScript 项目 CSS/SCSS Modules 智能提示配置指南](react/reacttypescript-xiang-mu-cssscss-modules-zhi-neng-ti-shi-pei-zhi-zhi-nan.md)
 * [一些工具](yi-xie-gong-ju.md)
+* [一些Ai提效](yi-xie-ai-ti-xiao/README.md)
+  * [Copycoder：这个工具和 Cursor、Bolt、V0 配合太棒了！提供更好的前端开发提示词](yi-xie-ai-ti-xiao/copycoder-zhe-ge-gong-ju-he-cursorboltv0-pei-he-tai-bang-le-ti-gong-geng-hao-de-qian-duan-kai-fa-ti.md)
+  * [awesome-cursorrules](yi-xie-ai-ti-xiao/awesome-cursorrules.md)
