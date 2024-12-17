@@ -1,6 +1,4 @@
-# Page 1
-
-## Flex 布局中的自动拉伸行为
+# Flex 布局中的自动拉伸行为
 
 ### 默认行为 (`align-items: stretch`)
 
