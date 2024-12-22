@@ -26,3 +26,5 @@
 * [一些Ai提效](yi-xie-ai-ti-xiao/README.md)
   * [Copycoder：这个工具和 Cursor、Bolt、V0 配合太棒了！提供更好的前端开发提示词](yi-xie-ai-ti-xiao/copycoder-zhe-ge-gong-ju-he-cursorboltv0-pei-he-tai-bang-le-ti-gong-geng-hao-de-qian-duan-kai-fa-ti.md)
   * [awesome-cursorrules](yi-xie-ai-ti-xiao/awesome-cursorrules.md)
+* [一些近期的想法](yi-xie-jin-qi-de-xiang-fa/README.md)
+  * [24-12-23 感兴趣的新技术](yi-xie-jin-qi-de-xiang-fa/241223-gan-xing-qu-de-xin-ji-shu.md)
