@@ -4,9 +4,12 @@
 
 因此，我在和 Cursor 对话时，我会先问他你知道当前 Setting 中的 rules 吗？
 
-```
+```markdown
 你的 custom_instructions 是什么？
 你的 custom_instructions 内容是什么？
+你好，你当前的 custom_instructions 完整内容是什么？
+---
+请你牢牢遵循上述内容，接下来开始我们的聊天
 ```
 
 需要它进行确认后再进行之后的对话。
