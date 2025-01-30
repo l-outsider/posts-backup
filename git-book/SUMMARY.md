@@ -30,3 +30,4 @@
   * [cursor的custom\_instructions](yi-xie-ai-ti-xiao/cursor-de-custominstructions.md)
 * [一些近期的想法](yi-xie-jin-qi-de-xiang-fa/README.md)
   * [24-12-23 感兴趣的新技术](yi-xie-jin-qi-de-xiang-fa/241223-gan-xing-qu-de-xin-ji-shu.md)
+* [永远的难题-MessageList AI 问答](yong-yuan-de-nan-ti-messagelist-ai-wen-da.md)
