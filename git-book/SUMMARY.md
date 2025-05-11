@@ -28,6 +28,12 @@
   * [Copycoder：这个工具和 Cursor、Bolt、V0 配合太棒了！提供更好的前端开发提示词](yi-xie-ai-ti-xiao/copycoder-zhe-ge-gong-ju-he-cursorboltv0-pei-he-tai-bang-le-ti-gong-geng-hao-de-qian-duan-kai-fa-ti.md)
   * [awesome-cursorrules](yi-xie-ai-ti-xiao/awesome-cursorrules.md)
   * [cursor的custom\_instructions](yi-xie-ai-ti-xiao/cursor-de-custominstructions.md)
+  * [AI 生成设计原型图网页](yi-xie-ai-ti-xiao/ai-sheng-cheng-she-ji-yuan-xing-tu-wang-ye.md)
 * [一些近期的想法](yi-xie-jin-qi-de-xiang-fa/README.md)
   * [24-12-23 感兴趣的新技术](yi-xie-jin-qi-de-xiang-fa/241223-gan-xing-qu-de-xin-ji-shu.md)
 * [永远的难题-MessageList AI 问答](yong-yuan-de-nan-ti-messagelist-ai-wen-da.md)
+
+## Code AI
+
+* [MCP 服务](code-ai/mcp-fu-wu.md)
+* [最佳实践](code-ai/zui-jia-shi-jian.md)
